@@ -4,3 +4,4 @@
 - another my fork
 - config virola messanger on linux
 - change zfs log size in freebsd
+- confolig mail server with DMARK,DKIM,PTR,SPF DNS RECORD
