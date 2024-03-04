@@ -3,3 +3,4 @@
 
 - another my fork
 - config virola messanger on linux
+- change zfs log size in freebsd
