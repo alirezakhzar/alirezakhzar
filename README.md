@@ -5,3 +5,4 @@
 - config virola messanger on linux
 - change zfs log size in freebsd
 - confolig mail server with DMARK,DKIM,PTR,SPF DNS RECORD
+- install openwrt on router and config firewall on it
