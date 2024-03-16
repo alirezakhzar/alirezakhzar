@@ -7,3 +7,5 @@
 - confolig mail server with DMARK,DKIM,PTR,SPF DNS RECORD
 - install openwrt on router and config firewall on it
 - fix POLKIT vul in Linux servers
+- install and config lightspeed
+- config ssl on server and dorectadminn port 2222
