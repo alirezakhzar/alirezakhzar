@@ -9,3 +9,4 @@
 - fix POLKIT vul in Linux servers
 - install and config lightspeed
 - config ssl on server and dorectadminn port 2222
+- install and config messanger like skype with possiblity on lan network and esxi
