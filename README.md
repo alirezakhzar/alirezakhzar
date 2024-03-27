@@ -1,12 +1,11 @@
 - 👋 Hi, I’m @alirezakhzar
 - 👀 I’m interested in cyber security
-
-- another my fork
 - config virola messanger on linux
 - change zfs log size in freebsd
-- confolig mail server with DMARK,DKIM,PTR,SPF DNS RECORD
+- config mail server with DMARK,DKIM,PTR,SPF DNS RECORD
 - install openwrt on router and config firewall on it
 - fix POLKIT vul in Linux servers
 - install and config lightspeed
 - config ssl on server and dorectadminn port 2222
 - install and config messanger like skype with possiblity on lan network and esxi
+- check my fork
