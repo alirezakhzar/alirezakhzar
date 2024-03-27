@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @alirezakhzar
 - 👀 I’m interested in cyber security
-- config messanger on linux
 - change zfs log size in freebsd
 - config mail server with DMARK,DKIM,PTR,SPF DNS RECORD
 - install openwrt on router and config firewall on it
