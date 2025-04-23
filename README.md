@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @alirezakhzar
-- 👀 I’m interested in cyber security and networking 
+- 👀 I’m interested in cyber security and programing
+- python and web programing. java and mql5 is my love. 
 - change zfs log size in freebsd
 - config mail server with DMARK,DKIM,PTR,SPF DNS RECORD
 - install openwrt on router and config firewall on it
